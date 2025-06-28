@@ -1,0 +1,55 @@
+# Thư mục và file build/debug
+bin/
+obj/
+*.suo
+*.user
+*.pdb
+*.cache
+*.log
+*.bak
+
+# Thư mục packages (NuGet)
+packages/
+*.nupkg
+!packages/repositories.config
+
+# File cấu hình môi trường nhạy cảm
+*.config
+!Web.config
+!*.csproj
+!*.sln
+
+# Thư mục tạm thời và cache
+[Tt]emp/
+[Tt]emporary/
+*.tmp
+*.temp
+*.vs
+.vscode/
+.idea/
+
+# File IDE
+*.sdf
+*.opensdf
+*.tss
+*.dbmdl
+*.publishsettings
+
+# File log và báo cáo
+*.log
+TestResults/
+*.trx
+*.xml
+*.coverage
+
+# File cá nhân hóa
+Thumbs.db
+.DS_Store
+
+# File Entity Framework
+*.edmx
+
+# Các file không cần thiết khác
+*.swp
+*~
+*.bak
