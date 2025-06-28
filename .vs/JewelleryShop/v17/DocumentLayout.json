@@ -3,19 +3,71 @@
   "WorkspaceRootPath": "C:\\genzuro\\JewelleryShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\areas\\userapi\\controllers\\sizeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\areas\\userapi\\controllers\\sizeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\areas\\userapi\\controllers\\roleapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\areas\\userapi\\controllers\\roleapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\areas\\userapi\\controllers\\productsizeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\areas\\userapi\\controllers\\productsizeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\areas\\userapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\areas\\userapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\areas\\userapi\\controllers\\paymentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\areas\\userapi\\controllers\\paymentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\areas\\userapi\\controllers\\orderdetailapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\areas\\userapi\\controllers\\orderdetailapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\areas\\userapi\\controllers\\orderapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\areas\\userapi\\controllers\\orderapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\areas\\userapi\\controllers\\materialapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\areas\\userapi\\controllers\\materialapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\areas\\userapi\\controllers\\gemstonetypeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\areas\\userapi\\controllers\\gemstonetypeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\areas\\userapi\\controllers\\discountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\areas\\userapi\\controllers\\discountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\areas\\userapi\\controllers\\categoryproductapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\areas\\userapi\\controllers\\categoryproductapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\areas\\userapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\areas\\userapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\areas\\userapi\\controllers\\billapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\areas\\userapi\\controllers\\billapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\models\\entities\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|C:\\genzuro\\JewelleryShop\\jewelleryshop\\models\\entities\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\models\\entities\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\areas\\userapi\\controllers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|C:\\genzuro\\JewelleryShop\\jewelleryshop\\areas\\userapi\\controllers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\areas\\userapi\\controllers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|c:\\genzuro\\jewelleryshop\\jewelleryshop\\areas\\userapi\\userapiarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|C:\\genzuro\\JewelleryShop\\jewelleryshop\\areas\\userapi\\userapiarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6970DFD2-6E63-4586-85CB-77A8D6817636}|JewelleryShop\\JewelleryShop.csproj|solutionrelative:jewelleryshop\\areas\\userapi\\userapiarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,19 +86,187 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SizeApiController.cs",
+              "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\SizeApiController.cs",
+              "RelativeDocumentMoniker": "JewelleryShop\\Areas\\UserAPI\\Controllers\\SizeApiController.cs",
+              "ToolTip": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\SizeApiController.cs",
+              "RelativeToolTip": "JewelleryShop\\Areas\\UserAPI\\Controllers\\SizeApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:36:39.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RoleApiController.cs",
+              "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\RoleApiController.cs",
+              "RelativeDocumentMoniker": "JewelleryShop\\Areas\\UserAPI\\Controllers\\RoleApiController.cs",
+              "ToolTip": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\RoleApiController.cs",
+              "RelativeToolTip": "JewelleryShop\\Areas\\UserAPI\\Controllers\\RoleApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:36:14.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductSizeApiController.cs",
+              "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\ProductSizeApiController.cs",
+              "RelativeDocumentMoniker": "JewelleryShop\\Areas\\UserAPI\\Controllers\\ProductSizeApiController.cs",
+              "ToolTip": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\ProductSizeApiController.cs",
+              "RelativeToolTip": "JewelleryShop\\Areas\\UserAPI\\Controllers\\ProductSizeApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:35:56.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductApiController.cs",
+              "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\ProductApiController.cs",
+              "RelativeDocumentMoniker": "JewelleryShop\\Areas\\UserAPI\\Controllers\\ProductApiController.cs",
+              "ToolTip": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\ProductApiController.cs",
+              "RelativeToolTip": "JewelleryShop\\Areas\\UserAPI\\Controllers\\ProductApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:35:37.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentApiController.cs",
+              "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\PaymentApiController.cs",
+              "RelativeDocumentMoniker": "JewelleryShop\\Areas\\UserAPI\\Controllers\\PaymentApiController.cs",
+              "ToolTip": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\PaymentApiController.cs",
+              "RelativeToolTip": "JewelleryShop\\Areas\\UserAPI\\Controllers\\PaymentApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:35:14.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetailApiController.cs",
+              "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\OrderDetailApiController.cs",
+              "RelativeDocumentMoniker": "JewelleryShop\\Areas\\UserAPI\\Controllers\\OrderDetailApiController.cs",
+              "ToolTip": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\OrderDetailApiController.cs",
+              "RelativeToolTip": "JewelleryShop\\Areas\\UserAPI\\Controllers\\OrderDetailApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:34:52.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderApiController.cs",
+              "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\OrderApiController.cs",
+              "RelativeDocumentMoniker": "JewelleryShop\\Areas\\UserAPI\\Controllers\\OrderApiController.cs",
+              "ToolTip": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\OrderApiController.cs",
+              "RelativeToolTip": "JewelleryShop\\Areas\\UserAPI\\Controllers\\OrderApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:34:25.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MaterialApiController.cs",
+              "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\MaterialApiController.cs",
+              "RelativeDocumentMoniker": "JewelleryShop\\Areas\\UserAPI\\Controllers\\MaterialApiController.cs",
+              "ToolTip": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\MaterialApiController.cs",
+              "RelativeToolTip": "JewelleryShop\\Areas\\UserAPI\\Controllers\\MaterialApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:33:49.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GemstoneTypeApiController.cs",
+              "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\GemstoneTypeApiController.cs",
+              "RelativeDocumentMoniker": "JewelleryShop\\Areas\\UserAPI\\Controllers\\GemstoneTypeApiController.cs",
+              "ToolTip": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\GemstoneTypeApiController.cs",
+              "RelativeToolTip": "JewelleryShop\\Areas\\UserAPI\\Controllers\\GemstoneTypeApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:32:33.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DiscountApiController.cs",
+              "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\DiscountApiController.cs",
+              "RelativeDocumentMoniker": "JewelleryShop\\Areas\\UserAPI\\Controllers\\DiscountApiController.cs",
+              "ToolTip": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\DiscountApiController.cs",
+              "RelativeToolTip": "JewelleryShop\\Areas\\UserAPI\\Controllers\\DiscountApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:31:43.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryProductApiController.cs",
+              "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\CategoryProductApiController.cs",
+              "RelativeDocumentMoniker": "JewelleryShop\\Areas\\UserAPI\\Controllers\\CategoryProductApiController.cs",
+              "ToolTip": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\CategoryProductApiController.cs",
+              "RelativeToolTip": "JewelleryShop\\Areas\\UserAPI\\Controllers\\CategoryProductApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:31:20.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartApiController.cs",
+              "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\CartApiController.cs",
+              "RelativeDocumentMoniker": "JewelleryShop\\Areas\\UserAPI\\Controllers\\CartApiController.cs",
+              "ToolTip": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\CartApiController.cs",
+              "RelativeToolTip": "JewelleryShop\\Areas\\UserAPI\\Controllers\\CartApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:30:23.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BillApiController.cs",
+              "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\BillApiController.cs",
+              "RelativeDocumentMoniker": "JewelleryShop\\Areas\\UserAPI\\Controllers\\BillApiController.cs",
+              "ToolTip": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\BillApiController.cs",
+              "RelativeToolTip": "JewelleryShop\\Areas\\UserAPI\\Controllers\\BillApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:30:04.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Models\\Entities\\Model1.edmx",
               "RelativeDocumentMoniker": "JewelleryShop\\Models\\Entities\\Model1.edmx",
               "ToolTip": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Models\\Entities\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "JewelleryShop\\Models\\Entities\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-06-28T15:43:02.08Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2025-06-28T15:43:02.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Web.config",
               "RelativeDocumentMoniker": "JewelleryShop\\Web.config",
@@ -59,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "UserApiController.cs",
               "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\Controllers\\UserApiController.cs",
               "RelativeDocumentMoniker": "JewelleryShop\\Areas\\UserAPI\\Controllers\\UserApiController.cs",
@@ -67,12 +287,11 @@
               "RelativeToolTip": "JewelleryShop\\Areas\\UserAPI\\Controllers\\UserApiController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T15:39:15.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T15:39:15.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "UserAPIAreaRegistration.cs",
               "DocumentMoniker": "C:\\genzuro\\JewelleryShop\\JewelleryShop\\Areas\\UserAPI\\UserAPIAreaRegistration.cs",
               "RelativeDocumentMoniker": "JewelleryShop\\Areas\\UserAPI\\UserAPIAreaRegistration.cs",
@@ -80,8 +299,7 @@
               "RelativeToolTip": "JewelleryShop\\Areas\\UserAPI\\UserAPIAreaRegistration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T15:38:37.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T15:38:37.61Z"
             }
           ]
         }

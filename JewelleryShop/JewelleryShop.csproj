@@ -139,6 +139,19 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Areas\UserAPI\Controllers\BillApiController.cs" />
+    <Compile Include="Areas\UserAPI\Controllers\CartApiController.cs" />
+    <Compile Include="Areas\UserAPI\Controllers\CategoryProductApiController.cs" />
+    <Compile Include="Areas\UserAPI\Controllers\DiscountApiController.cs" />
+    <Compile Include="Areas\UserAPI\Controllers\GemstoneTypeApiController.cs" />
+    <Compile Include="Areas\UserAPI\Controllers\MaterialApiController.cs" />
+    <Compile Include="Areas\UserAPI\Controllers\OrderApiController.cs" />
+    <Compile Include="Areas\UserAPI\Controllers\OrderDetailApiController.cs" />
+    <Compile Include="Areas\UserAPI\Controllers\PaymentApiController.cs" />
+    <Compile Include="Areas\UserAPI\Controllers\ProductApiController.cs" />
+    <Compile Include="Areas\UserAPI\Controllers\ProductSizeApiController.cs" />
+    <Compile Include="Areas\UserAPI\Controllers\RoleApiController.cs" />
+    <Compile Include="Areas\UserAPI\Controllers\SizeApiController.cs" />
     <Compile Include="Areas\UserAPI\Controllers\UserApiController.cs" />
     <Compile Include="Areas\UserAPI\UserAPIAreaRegistration.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -167,11 +180,6 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Model1.Context.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\Entities\Model1.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\Entities\Model1.Designer.cs">
       <AutoGen>True</AutoGen>
