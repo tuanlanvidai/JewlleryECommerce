@@ -14,10 +14,7 @@ packages/
 !packages/repositories.config
 
 # File cấu hình môi trường nhạy cảm
-*.config
-!Web.config
-!*.csproj
-!*.sln
+
 
 # Thư mục tạm thời và cache
 [Tt]emp/
